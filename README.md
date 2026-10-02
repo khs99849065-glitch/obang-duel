@@ -2,9 +2,9 @@
 
 60 수호동물로 겨루는 8가문 오토체스. 친구와 인터넷(방 코드 4자리)으로 같이 할 수 있어요. 무료.
 
-**받기:** 오른쪽 [Releases](../../releases/latest) → `ObangDuel_Windows.zip`
+**받기:** [ObangDuel_Setup.exe 바로 받기](https://github.com/khs99849065-glitch/obang-duel/releases/latest/download/ObangDuel_Setup.exe) (Windows 10/11)
 
-1. ZIP 압축 풀기 → `ObangDuel.exe` 실행 (Windows 10/11)
+1. 받은 `ObangDuel_Setup.exe` 실행 → 설치 → 바탕화면 「오방대륙 결투」 아이콘 (ZIP이 편하면 Releases의 `ObangDuel_Windows.zip`)
 2. "Windows의 PC 보호" 창 → 추가 정보 → 실행 (서명 없는 개인 제작 게임)
 3. 타이틀 → 오방 체스 · 8가문 대전 → 방장은 "온라인 방 만들기", 친구는 "방 코드로 참가"
 
